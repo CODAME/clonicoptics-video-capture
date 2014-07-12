@@ -1,5 +1,5 @@
-var WIDTH = 200;
-var HEIGHT = 150;
+var WIDTH = 320;
+var HEIGHT = 240;
 
 var camera, scene, renderer;
 var video, videoTexture;
@@ -78,6 +78,7 @@ function init() {
 	//Create Shader Passes
 	badTVPass     = new THREE.ShaderPass( { uniforms: uniforms,  vertexShader: shaders.vertex, fragmentShader: shaders.badtv } );
 	rgbPass       = new THREE.ShaderPass( { uniforms: uniforms , vertexShader: shaders.vertex, fragmentShader: shaders.rgbshift } );
+	
 
 	//Add Shader Passes to Composer
 	//order is important 
