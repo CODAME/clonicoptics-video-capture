@@ -1,8 +1,11 @@
+![alt text](http://i.imgur.com/fSv3VQh.gif "Seemlessly Looping Gif")
+
 ClonicOptics Video Capture
 ===============
-Easy capture of seamlessly looping GIF from analog video sources (modular video synthesizers, security cameras, etc)
+Easy capture of seamlessly looping GIF from analog video sources (modular video synthesizers, security cameras, etc).
 
 Worklfow:
+
 1. Capture 7 seconds of video.
 2. Adjust parameters:
   - Start point
