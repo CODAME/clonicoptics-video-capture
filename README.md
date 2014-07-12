@@ -5,10 +5,10 @@ Easy capture of seamlessly looping GIF from analog video sources (modular video 
 Worklfow:
 1. Capture 7 seconds of video.
 2. Adjust parameters:
- - Start point
- - Stop point
- - Number of frames
- - Playback speed
+  - Start point
+  - Stop point
+  - Number of frames
+  - Playback speed
 3. Export/upload!
 
 Gif files are to tumblr's spec (as of July 2014):
